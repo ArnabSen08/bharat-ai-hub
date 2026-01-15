@@ -235,17 +235,15 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👥 Team
 
-- **Project Lead**: [Your Name]
-- **AI/ML Engineer**: [Team Member]
-- **Backend Developer**: [Team Member]
-- **Frontend Developer**: [Team Member]
-- **DevOps Engineer**: [Team Member]
+- **Project Lead**: Arnab Sen
+- **GitHub**: @ArnabSen08
+- **Email**: beanclarksum@gmail.com
 
 ## 📞 Contact
 
-- **Email**: contact@bharataihub.com
-- **Website**: https://bharataihub.com
-- **Twitter**: @BharatAIHub
+- **Email**: beanclarksum@gmail.com
+- **GitHub**: https://github.com/ArnabSen08/bharat-ai-hub
+- **Repository**: https://github.com/ArnabSen08/bharat-ai-hub
 
 ## 🙏 Acknowledgments
 
