@@ -1,0 +1,61 @@
+{
+  "name": "bharat-ai-hub",
+  "version": "1.0.0",
+  "description": "Unified AI Platform for Social Impact - AWS AI for Bharat Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "test": "jest",
+    "migrate": "node scripts/migrate.js",
+    "seed": "node scripts/seed.js",
+    "deploy": "npm run build && cdk deploy"
+  },
+  "keywords": [
+    "ai",
+    "healthcare",
+    "retail",
+    "rural",
+    "education",
+    "aws",
+    "bedrock",
+    "sagemaker"
+  ],
+  "author": "Arnab Sen",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.700.0",
+    "@aws-sdk/client-s3": "^3.700.0",
+    "@aws-sdk/client-dynamodb": "^3.700.0",
+    "@aws-sdk/client-sagemaker-runtime": "^3.700.0",
+    "@aws-sdk/client-textract": "^3.700.0",
+    "@aws-sdk/client-comprehend-medical": "^3.700.0",
+    "@aws-sdk/client-translate": "^3.700.0",
+    "@aws-sdk/client-polly": "^3.700.0",
+    "@aws-sdk/client-transcribe": "^3.700.0",
+    "@aws-sdk/client-rekognition": "^3.700.0",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "express": "^4.18.2",
+    "pg": "^8.11.0",
+    "redis": "^4.6.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "zod": "^3.22.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.0",
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0",
+    "aws-cdk": "^2.115.0",
+    "aws-cdk-lib": "^2.115.0"
+  }
+}
