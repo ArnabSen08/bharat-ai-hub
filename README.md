@@ -3,10 +3,15 @@
 [![AWS](https://img.shields.io/badge/AWS-Powered-orange)](https://aws.amazon.com/)
 [![AI](https://img.shields.io/badge/AI-Enabled-blue)](https://aws.amazon.com/ai/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://arnabsen08.github.io/bharat-ai-hub/)
+[![Demo](https://img.shields.io/badge/Demo-Interactive-blue)](https://arnabsen08.github.io/bharat-ai-hub/demo.html)
 
 ## 🎯 Vision
 
 Bharat AI Hub is a comprehensive, modular AI-powered platform designed to address critical challenges across healthcare, retail, rural development, education, and community services. Built as a unified ERP-style system, it demonstrates how AI can create meaningful impact across multiple sectors simultaneously.
+
+**🌐 Live Website**: https://arnabsen08.github.io/bharat-ai-hub/  
+**🚀 Interactive Demo**: https://arnabsen08.github.io/bharat-ai-hub/demo.html
 
 ## 🏆 Problem Statements Addressed
 
@@ -243,6 +248,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - **Email**: beanclarksum@gmail.com
 - **GitHub**: https://github.com/ArnabSen08/bharat-ai-hub
+- **Website**: https://arnabsen08.github.io/bharat-ai-hub/
 - **Repository**: https://github.com/ArnabSen08/bharat-ai-hub
 
 ## 🙏 Acknowledgments
